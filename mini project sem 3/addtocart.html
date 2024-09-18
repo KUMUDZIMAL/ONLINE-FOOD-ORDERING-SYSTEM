@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="addtocart.css">
+        <link rel="stylesheet" href="cart.css">
+
+        <script src="https://kit.fontawesome.com/92d70a2fd8.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="header">
+            <p class="logo">MENU </p>
+            <div class="cart"><i class="fa-solid fa-cart-shopping"></i><p id="count">0</p></div>
+        </div>
+        
+        <div class="container">
+            
+              
+        <div class="sidebody" style="height: 69vh;">
+            <div class="searchBar">
+                <i class="fa-solid fa-magnifying-glass glass" id="btn"></i>
+                <input placeholder="Search..." id="searchBar" name="searchBar" type="text">
+         
+                
+            </div>
+        </div>
+       
+            <div id="root"></div>
+            <div class="sidebar">
+                <div class="head"><p>My Cart</p></div>
+                <div id="cartItem">Your cart is empty</div>
+                <div class="foot">
+                    <h3>Total</h3>
+                    <h2 id="total"> RS 0.00 </h2>
+                </div>
+                <button class="buun" onclick=" redirectToAnotherPage()">checkout orders</button>
+            </div>
+           
+        
+            
+        </div>
+        <script src="addtocart.js"></script>
+        
+               <script>
+      function redirectToAnotherPage() {
+          // Redirect to the desired HTML page
+          window.location.href = "cashoption.html";
+      }
+  </script>
+     
+
+        
+       
+    </body>
+</html>

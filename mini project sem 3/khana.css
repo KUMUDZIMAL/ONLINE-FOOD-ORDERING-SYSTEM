@@ -1,0 +1,98 @@
+.noodles1{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.noodles2{
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+
+}
+.noodles3{
+    
+    display: flex;
+    margin-top: 25px;
+    justify-content: space-evenly;
+}
+
+#cart{
+    margin-left: 190px;
+    font-size: 33px;
+ 
+
+
+}
+
+
+#item-name{
+    text-align: center;
+    font-size: 30px;
+}
+#price{
+    text-align: center;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+img{
+    width: 300px;
+    text-align: center;
+}
+
+body{
+    background-color: #ffeae0;
+}
+.sp{
+    border: 5px solid #d73605;
+    background-color: #f9744c;
+    text-align: center;
+    border-radius: 10%;
+
+
+}
+.space{
+    border: 5px solid #d73605;
+    background-color: #f9744c;
+    margin-left: 30px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.sp:hover{  
+    border: 5px solid rgb(27, 42, 179)
+}
+.space:hover{
+    border: 5px solid rgb(27, 42, 179)
+}
+.MYCART{
+    background-color: rgb(224, 111, 63);
+    color: black;
+    font-size: 35px;
+    width: 400px;
+    height: 7000px;
+    text-align: center;
+    position: relative;
+    bottom: 1400px;
+    left: 1100px;
+    
+}
+
+#total{
+width:100%;
+height:85px;
+background-color: #ffeae0;
+font-size: 30px;
+text-align: left;
+
+}
+
+
+.category{
+    
+text-align: right;
+}
+.add-to-cart{
+    background-color:#ffeae0; ;
+}

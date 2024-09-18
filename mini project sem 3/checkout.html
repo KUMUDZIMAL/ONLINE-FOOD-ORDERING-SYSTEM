@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="checkout.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css">
+</head>
+<body>
+    <div class="heading">
+        <h3 id="checkout">Checkout</h3>
+    </div>
+
+    <section class="checkout">
+        <div class="user-info">
+         
+            <h3>Enter your info</h3>
+
+            <form action="/submit" method="post">
+                <div class="heading">ENTER YOUR NAME</div>
+                <input type="text" name="NAME">
+                <div class="heading">ENTER YOUR PHONE NUMBER</div>
+                <input type="text" name ="NUMBER">
+                <div class="heading">ENTER YOUR ADDRESS</div>
+                <input type="text" name="ADDRESS" class="add">
+                <div class="heading">ENTER YOUR CITY NAME</div>
+                <input type="text" name="city">
+                <div class="heading">ENTER YOUR PINCODE</div>
+                <input type="text" name="pincode">
+               
+                <div class="heading">ENTER YOUR EMAIL ID</div>
+                <input type="text" name="EMAIL">
+
+                <!-- <div class="heading">YOUR FOOD ITEMS</div>
+                <input type="text" id="food" name="food">
+                <div class="heading">TOTAL PRICE</div>
+                <input type="text" id="PRICE" name="PRICE"> -->
+
+                <button class="placeholder" type="submit">PLACE ORDER</button>
+            </form>
+        </div>
+    </section>
+
+ 
+</body>
+</html>

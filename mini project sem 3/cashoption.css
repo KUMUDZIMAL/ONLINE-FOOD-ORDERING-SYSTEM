@@ -1,0 +1,92 @@
+.body{
+    text-align: center;
+}
+.choice{
+    margin-top: 20px;
+    color: white;
+    background-color: #ff511c;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+}
+.choice2{
+    margin-top: 20px;
+    color: white;
+    background-color: #ff511c;
+    width: 300px;
+    height: 70px;
+    text-align: center;
+    font-size: 25px;
+}
+.choice3{
+    margin-top: 20px;
+    color: white;
+    background-color: #ff511c;
+    width: 300px;
+    height: 70px;
+    text-align: center;
+    font-size: 25px;
+}
+.choice4{
+    margin-top: 20px;
+    color: white;
+    background-color: #ff511c;
+    width: 300px;
+    height: 70px;
+    text-align: center;
+    font-size: 25px;
+}
+.choice1{
+    margin-top: 20px;
+    color: white;
+    background-color: #ff511c;
+    width: 300px;
+    height: 70px;
+    text-align: center;
+    font-size: 25px;
+}
+div{
+    text-align: center;
+}
+.choice1:hover{
+    border: 3px white solid;
+
+
+}
+.choice2:hover{
+    border: 3px white solid;
+
+
+}
+.choice3:hover{
+    border: 3px white solid;
+
+
+}
+.choice4:hover{
+    border: 3px white solid;
+
+
+}
+.choice1:active{
+    background-color: white;
+
+
+}
+.choice2:active{
+    background-color: white;
+
+
+}
+.choice3:active{
+    background-color: white;
+
+
+}
+.choice4:active{
+    background-color: white;
+
+
+}

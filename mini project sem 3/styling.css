@@ -1,0 +1,242 @@
+
+
+
+
+ .about .row .content{
+    
+    text-align: center;
+ }
+ 
+ 
+ #p{
+    font-size: 35px;
+ }
+ #h3{
+    font-size: 45px;
+    color:#ff511c;
+ }
+ #a{
+   color: white;
+    background-color:#ff511c;
+    font-size: 45px;
+ }
+ body{
+    background-color: #ffeae0;
+ }
+ 
+ .classes{
+   font-size: 45px;
+   color: #ff511c;
+ }
+ .P{
+    font-size: 35px;
+ }
+ .row{
+    display: flex;
+ 
+ }
+ .box-container{
+    display: flex;
+   justify-content: space-between;
+
+    
+   
+ }
+ 
+#DIV{
+    
+    margin-left: 40px;
+}
+.title{
+    font-size: 60px;
+    text-align: center;
+    color: #ff511c;
+}
+.reviews{
+    text-align: center;
+}
+.stars{
+  
+   font-size: 35px;
+   
+    text-align: center;
+}
+.para{
+    font-size: 50px;
+}
+.john{
+    font-size: 45px;
+}
+
+.swiper-wrapper{
+display: flex;
+
+}
+#foodio{
+font-size: 200px;
+color:black;
+}
+#io{
+   font-size: 200px;
+   color: #ff511c;
+   
+}
+#PIC1{
+   width: 25%
+}
+#jenny{
+   width: 40%
+}
+.rowwws{
+   display: flex;
+}
+
+
+#tell{
+   font-size: 50px;
+   color: #ff511c;;
+}
+.box{
+   width: 500px;
+   height: 45px;
+   
+}
+
+form{
+   border: 2px solid black;
+   margin-top: 35px;
+   margin-left: 40px;
+   width: 50%;
+}
+.inp{
+   border: 2px solid black;
+width: 700px
+
+}
+
+#NAME{
+   height: 45px;
+}
+#msg{
+   height: 150px;
+
+}
+#email{
+   height: 45px;
+}
+#number{
+   height: 45px;
+}
+#send{
+   height: 45px;
+   color:white;
+   margin-top: 25px;
+   background-color: #ff511c;;
+}
+
+input{
+   margin-bottom: 25px;
+   font-size: 25px;
+}
+textarea{
+   font-size: 25px;
+}
+.DETAILS{
+   font-size: 40px;
+}
+.LINKS{
+   font-size: 32px;
+   color: white;
+}
+
+.first{
+   width: 100%;
+   height: 175px;
+   background-color: #ff511c;
+   color:white;
+   text-align: center;
+   font-size: 60px;
+   align-items: center;
+   
+ 
+  
+   
+}
+div{
+   position: relative;
+   top: 50px;
+
+   
+}
+.picture{
+ 
+   width: 700px;
+
+}
+.box-container2{
+   display: flex;
+   margin-top: 70px;
+   justify-content: space-around;
+
+}
+
+
+.photo{
+   width: 40%;
+}
+.box1{
+   background-color: #fe9373;
+   
+   color: white;
+   border: 2px solid black;
+   margin-left: 25px;
+   text-align: center;
+   width: 400px;
+}
+.box2{
+   background-color: #fe9373;
+   color: white;
+   border: 2px solid black;
+   margin-left: 25px;
+   text-align: center;
+}
+.box3{
+   background-color: #fe9373;
+   color: white;
+   border: 2px solid black;
+   margin-left: 25px;
+   text-align: center;
+}
+.box4{
+   background-color: #fe9373;
+   color: white;
+   border: 2px solid black;
+   margin-left: 25px;
+   text-align: center;
+   width: 400px;
+
+}
+.credit{
+   height:100px;
+   width: 100%;
+   background-color: #ff511c;
+   text-align: center;
+   font-size: 40px;
+  
+   margin-top: 100px;
+}
+.login{
+   position: relative;
+   top: 200px;
+   left: 200px;
+   height: 200px;
+}
+.cl{
+   color: #ff511c;
+}
+button:hover{
+   border: 2px white solid;
+}
+.textpart{
+   font-size: 30px;
+}
